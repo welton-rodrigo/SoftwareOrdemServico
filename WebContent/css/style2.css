@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+body{
+	
+}
+
+#colListagemDeTicket {
+	background-color: #87CEEB; 
+	height: 30px; 
+	
+}
+
+#linhaform{
+	margin-top: 50px;
+}
+.texto_logo{
+	color: white;
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+}
+
+.texto_logo2{
+	color: white;
+}
+
+#propaganda{
+	height: 300px;
+	background-color: green;
+	margin-top: 100px;
+}
+.fonteslogin{
+	color: white;
+}
+#linha1 {
+	background-color: #3b5998;
+}
+
+#linha2 {
+	background-color: #f1f4f9;
+}

@@ -1,0 +1,91 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: #f1f4f9;
+}
+
+.row{
+}
+
+#colListagemDeTicket {
+	background-color: #87CEEB; 
+	height: 30px; 
+}
+
+#linhaform{
+	margin-top: 50px;
+}
+
+
+#coluna3{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #f1f4f9;
+	margin-top: 50px;
+}
+
+.texto_logo{
+	font-family:cursive;
+	font-size: 85px;
+}
+
+.texto_logo_telaprincipal{
+	font-family:cursive;
+	font-size: 50px;
+	color: #0080c0;
+}
+
+.coluna3font1{
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.font2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+.termos{
+	font-size: 12px;
+	
+}
+
+.imagemhistorico{
+	width: 40px;
+	height: 40px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+#p2row3{
+	padding: 20px 20px 20px 20px;
+}
+
+#p2colpesq{
+	font-family: sans-serif;
+	background-color: #FFFFFF;
+	box-shadow: 5px 5px 10px #0076a3;
+	-webkit-box-shadow: 5px 5px 10px #808080;
+	-moz-box-shadow: 5px 5px 10px #808080;
+	padding: 20px 30px 20px 20px;
+	margin: 2px 2px 20px 15px;
+	border-radius: 10px;
+}
+
+
+@media print { }
+ 
+
+@media only screen and (max-device-width: 480px) { /* Change to whatever media query you require */
+ 
+}
+
+@media only screen and (min-width: 600px) { }
+@media only screen and (min-width: 992px) { }
+@media only screen and (min-width: 1382px) { }
+ 
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) { }
+
